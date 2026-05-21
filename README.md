@@ -2,8 +2,8 @@
 
 ## Author
 
-* **Name**:Tharrun d
-* **Register Number**: 212224240170
+* **Name**:HARISH M
+* **Register Number**: 212224110021
 * **Date of Submission**: 21/05/26
 
 ---
